@@ -28,21 +28,21 @@
     "body-parser": "^1.12.2",
     "express": "^4.12.2",
     "jade": "^1.11.0",
-    "lodash": "^3.10.1",
-    "lodash-deep": "^1.1.0",
+    "lodash": "^4.16.2",
+    "lodash-deep": "^2.0.0",
     "nib": "~1.1.0",
-    "node-redis-warlock": "^0.1.2",
+    "node-redis-warlock": "^0.2.0",
     "redis": "^2.3.0",
     "reds": "~0.2.5",
-    "stylus": "~0.52.4"
+    "stylus": "~0.54.5"
   },
   "devDependencies": {
-    "async": "^1.4.2",
+    "async": "^2.0.1",
     "chai": "^3.3.0",
-    "coffee-script": "~1.10.0",
-    "mocha": "^2.3.3",
-    "should": "^3.1.0",
-    "supertest": "~1.1.0"
+    "coffee-script": "~1.11.0",
+    "mocha": "^3.0.2",
+    "should": "^11.1.0",
+    "supertest": "~2.0.0"
   },
   "main": "index",
   "scripts": {
